@@ -7,7 +7,6 @@ op << .... ;
 vd:
 ```
     ip << "cac" << "\n cac"; # nhap vao file input
-    
     out << "cac" << "\n cac" # nhap vao file output
 ```
 
@@ -16,28 +15,36 @@ Luon luon "<<" ko dc ">>" khi dung ip , op
 file_build({folder dir},{name},{ext input},{ext output});
 ```
 
-vd : ```file_build("./deptrai/","vip",".txt",".txt")```
+vd : 
+```
+file_build("./deptrai/","vip",".txt",".txt")
+```
 
 ```
 file_end();
 ```
 
-Luu y: luon luon phai co file_end(); uwu
+Luu y: luon luon phai co ```file_end();``` khi ```file_build(...);``` uwu
 
 ```
 rand_str({size})
 ```
-vd:```
+
+vd:
+```
     rand_str(69); # FNuRXhDZqSfCfvLgYYxwTKHwPCqOhMafFUnOKsCTjnoxUROvkEpuITYcsBsbQFEVmPhOG
 ```
+
 ```
 rand_int(l,r)
 ```
 vd:
 ```
-    rand_int(1,69);
+    rand_int(1,69);  # 69
 ```
-# code vd sinh T test
+
+# code vd sinh N test
+
 ```cpp
 #include <bits/stdc++.h>
 #include "giaosu.h"
