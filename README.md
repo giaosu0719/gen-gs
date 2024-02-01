@@ -1,13 +1,12 @@
 # Huong dan dep trai
 ```
 ip << .... ;
-
 op << .... ;
 ```
 vd:
 ```
-    ip << "cac" << "\n cac"; # nhap vao file input
-    out << "cac" << "\n cac" # nhap vao file output
+ip << "cac" << "\n cac"; # nhap vao file input
+out << "cac" << "\n cac" # nhap vao file output
 ```
 
 Luon luon ```<<``` ko dc ```>>``` khi dung ip , op
@@ -32,7 +31,7 @@ rand_str({size})
 
 vd:
 ```
-    rand_str(69); # FNuRXhDZqSfCfvLgYYxwTKHwPCqOhMafFUnOKsCTjnoxUROvkEpuITYcsBsbQFEVmPhOG
+rand_str(69); # FNuRXhDZqSfCfvLgYYxwTKHwPCqOhMafFUnOKsCTjnoxUROvkEpuITYcsBsbQFEVmPhOG
 ```
 
 ```
@@ -40,7 +39,7 @@ rand_int(l,r)
 ```
 vd:
 ```
-    rand_int(1,69);  # 69
+rand_int(1,69);  # 69
 ```
 
 # code vd sinh N test
