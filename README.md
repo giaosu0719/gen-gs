@@ -10,7 +10,7 @@ vd:
     out << "cac" << "\n cac" # nhap vao file output
 ```
 
-Luon luon "<<" ko dc ">>" khi dung ip , op
+Luon luon ```<<``` ko dc ```>>``` khi dung ip , op
 ```
 file_build({folder dir},{name},{ext input},{ext output});
 ```
