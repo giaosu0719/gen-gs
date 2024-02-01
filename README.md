@@ -1,44 +1,44 @@
 # Huong dan dep trai
-```
+```cpp
 ip << .... ;
 op << .... ;
 ```
 vd:
-```
+```cpp
 ip << "cac" << "\n cac"; # nhap vao file input
 out << "cac" << "\n cac" # nhap vao file output
 ```
 
 Luon luon ```<<``` ko dc ```>>``` khi dung ip , op
-```
+```cpp
 file_build({folder dir},{name},{ext input},{ext output});
 ```
 
 vd : 
-```
+```cpp
 file_build("./deptrai/","vip",".txt",".txt")
 ```
 
-```
+```cpp
 file_end();
 ```
 
 Luu y: luon luon phai co ```file_end();``` khi ```file_build(...);``` uwu
 
-```
+```cpp
 rand_str({size})
 ```
 
 vd:
-```
+```cpp
 rand_str(69); # FNuRXhDZqSfCfvLgYYxwTKHwPCqOhMafFUnOKsCTjnoxUROvkEpuITYcsBsbQFEVmPhOG
 ```
 
-```
+```cpp
 rand_int(l,r)
 ```
 vd:
-```
+```cpp
 rand_int(1,69);  # 69
 ```
 
