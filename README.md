@@ -1,4 +1,4 @@
-# Huong dan dep trai
+![image](https://github.com/giaosu0719/gen-gs/assets/63047065/7622237e-190d-45ac-885d-f25a821b4a97)# Huong dan dep trai
 ```cpp
 ip << .... ;
 op << .... ;
@@ -67,3 +67,6 @@ signed main(){
     return 0;
 }
 ```
+
+![nhomnhom](![image](https://github.com/giaosu0719/gen-gs/assets/63047065/39c5768e-8fe2-4d5b-be59-3706026d202d)
+)
