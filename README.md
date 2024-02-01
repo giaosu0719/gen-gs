@@ -1,4 +1,4 @@
-![image](https://github.com/giaosu0719/gen-gs/assets/63047065/7622237e-190d-45ac-885d-f25a821b4a97)# Huong dan dep trai
+
 ```cpp
 ip << .... ;
 op << .... ;
