@@ -68,5 +68,5 @@ signed main(){
 }
 ```
 
-![nhomnhom](![image](https://github.com/giaosu0719/gen-gs/assets/63047065/39c5768e-8fe2-4d5b-be59-3706026d202d)
-)
+![image](https://github.com/giaosu0719/gen-gs/assets/63047065/94e1f8c6-07b1-434a-8744-1985308c9cd3)
+
